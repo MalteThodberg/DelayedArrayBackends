@@ -22,3 +22,5 @@ Overview of implemented DelayedArray backends (most likely incomplete):
 - [filematrix](https://cran.r-project.org/web/packages/filematrix/index.html)
 - [feather](https://cran.r-project.org/web/packages/feather/index.html)
 - [ff](https://cran.r-project.org/web/packages/ff/index.html)
+- [zarr](https://bioconductor.org/packages/Rarr/)
+- [txt](https://cran.r-project.org/web/packages/LaF/index.html)
